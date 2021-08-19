@@ -8,8 +8,9 @@ For new hires, you may check with your manager or pay attention to mail notifica
     - At least once a year, DevDiv IDC and DevDiv China will co-host a bootcamp to introduce new hire to DevDiv culture, values, and overall business strategy for Developer Tools & Services. At the bootcamp, you will meet other new hires and hear from various Engineering and PM leaders across the division.
 
 Now, let's take a one week learning to ramp up.
+
 | Topic | Summary |
-| -- | -- |
+|-------|---------|
 | Day 1. [Azure Management](./Engineering%20track/Day%201%20Azure%20Management.md) | Try different tools to managed Azure resources. |
 | Day 2. [Azure Core Services](./Engineering%20track/Day%202%20Azure%20Core%20Services.md) | Learn and try some core services on Azure. |
 | Day 3. [Important Azure Concepts](./Engineering%20track/Day%203%20Important%20Azure%20Concepts.md) | Understand more about Azure.  |
