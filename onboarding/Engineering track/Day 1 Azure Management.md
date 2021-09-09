@@ -25,6 +25,16 @@ This doc provides the most frequently used tools to manage Azure resources.
 | Azure Rest API contract | [Link](https://github.com/Azure/azure-resource-manager-rpc) | 30 min | Go to details only when needed |
 
 
+## ARM Template
+> __Goal.__ <br>
+> Service Team: Be familiar <br>
+> Tooling Team: Be familiar
+
+| Content | Link |  Time  |
+|---------|------|--------|
+| What are ARM templates | [Link](https://docs.microsoft.com/en-us/azure/azure-resource-manager/templates/overview) | 15 min |
+
+
 ## Azure SDKs
 > __Goal.__ <br>
 > Service Team: Be familiar <br>
@@ -59,23 +69,3 @@ This doc provides the most frequently used tools to manage Azure resources.
 |---------|------|--------|
 | What is Azure Powershell | [Link](https://docs.microsoft.com/en-us/powershell/azure/new-azureps-module-az) | 5min |
 | Azure CLI vs Powershell | [Link](https://docs.microsoft.com/en-us/cli/azure/choose-the-right-azure-command-line-tool) | 10 min |
-
-
-## Terraform
-> __Goal.__ <br>
-> Service Team: Know about <br>
-> Tooling Team: Know about 
-
-| Content | Link |  Time  |
-|---------|------|--------|
-| What is Terraform | [Link](https://learn.hashicorp.com/tutorials/terraform/infrastructure-as-code?in=terraform/azure-get-started) | 15 min |
-
-
-## ARM Template
-> __Goal.__ <br>
-> Service Team: Know about <br>
-> Tooling Team: Know about
-
-| Content | Link |  Time  |
-|---------|------|--------|
-| What are ARM templates | [Link](https://docs.microsoft.com/en-us/azure/azure-resource-manager/templates/overview) | 15 min |
