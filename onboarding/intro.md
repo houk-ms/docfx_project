@@ -52,7 +52,10 @@ Content: your alias, seat number, lock number 锁芯号 (carved on the lock, not
 ```
 
 
-## Work Life Balance
+## Work Life
+
+### About Microsoft
+ - Discover, engage and share on [MSW](https://microsoft.sharepoint.com/)
 
 ### Useful Phone No. in Zizhu
 

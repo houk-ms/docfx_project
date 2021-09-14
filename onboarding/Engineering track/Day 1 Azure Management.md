@@ -47,7 +47,7 @@ This doc provides the most frequently used tools to manage Azure resources.
 | Azure SDK guidelines | [Link](https://azure.github.io/azure-sdk/general_introduction.html) | 10 min | Go to details only when needed |
 
 
-## Azure CLI
+## Azure Client Tools
 > __Goal.__ <br>
 > Service Team: Be familiar <br>
 > Tooling Team: Be familiar
@@ -56,16 +56,5 @@ This doc provides the most frequently used tools to manage Azure resources.
 |---------|------|--------|
 | What is AzureCLI | [Link](https://docs.microsoft.com/en-us/cli/azure/what-is-azure-cli) | 5 min |
 | Get Started with CLI | [Link](https://docs.microsoft.com/en-us/cli/azure/get-started-with-azure-cli) | 10 min |
-| Create a VM with CLI | [Link](https://docs.microsoft.com/en-us/cli/azure/azure-cli-vm-tutorial) | 15 min |
-| What is CLI extension | [Link](https://docs.microsoft.com/en-us/cli/azure/azure-cli-extensions-overview) | 10 min |
-
-
-## Azure Powershell
-> __Goal.__ <br>
-> Service Team: Know about <br>
-> Tooling Team: Know about
-
-| Content | Link |  Time  |
-|---------|------|--------|
 | What is Azure Powershell | [Link](https://docs.microsoft.com/en-us/powershell/azure/new-azureps-module-az) | 5min |
 | Azure CLI vs Powershell | [Link](https://docs.microsoft.com/en-us/cli/azure/choose-the-right-azure-command-line-tool) | 10 min |
