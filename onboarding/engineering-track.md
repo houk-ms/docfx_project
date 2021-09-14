@@ -7,7 +7,7 @@ For new hires, you may check with your manager or pay attention to mail notifica
 - DevDiv Bootcamp (https://aka.ms/AboutDevDivBootcamp)
     - At least once a year, DevDiv IDC and DevDiv China will co-host a bootcamp to introduce new hire to DevDiv culture, values, and overall business strategy for Developer Tools & Services. At the bootcamp, you will meet other new hires and hear from various Engineering and PM leaders across the division.
 
-        |Azure Boot Camp 2020 Topic|Video|
+        |DevDiv BootCamp 2020 Topic|Video|
         |-----|-----|
         |01 - Introduction to Bootcamp|N/A|
         |02 - Introduction to Microsoft, C+AI and DevDiv|N/A|
