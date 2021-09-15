@@ -1,5 +1,9 @@
 - name: Onboarding
   href: intro.md
+- name: Useful Information
+  href: useful-info.md
+- name: Learning Resources
+  href: learning-resources.md
 - name: Engineering Track
   href: engineering-track.md
   items:
