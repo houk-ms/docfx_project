@@ -1,4 +1,28 @@
-# Useful Infomation 
+# Useful Information
+
+|Scope|An index of Topic|
+|-----|-----|
+|Access & Permission|[Badge](#badge)|
+||[Office Access](#office-access)|
+||[Phone Authentication](#phone-authentication)|
+||[MS network](#ms-network)|
+|IT & Facilities|[Asset Management](#asset-management)|
+||[SAW machine](#saw-machine)|
+||[Headphone](#headphone)|
+||[Install Printer Driver](#install-printer-driver)|
+||[Key to the Cabinet](#key-to-the-cabinet)|
+|Work Life|[Useful Links](#useful-links)|
+||[Useful Phone No](#useful-phone-no)|
+||[HR-related](#hr-related)|
+||[Shuttle](#shuttle)|
+||[MPR and Training Room Booking](#mpr-and-training-room-booking)|
+||[Business Card](#business-card)|
+||[Cafeteria-related Suggestion](#cafeteria-related-suggestion)|
+||[Reimbursement](#reimbursement)|
+||[Trade Union](#trade-union)|
+||[Facilities Service Center](#facilities-service-center)|
+||[Game Clubs](#game-clubs)|
+
 ## Access & Permission
 ### Badge
 - To get the formal badge, please submit the request via below process, B01 Receptionist will contact you (usually within 7 business days) when the badge is ready to be collected. [GSAM Self Service Portal](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fmicrosoft.sharepoint.com%2Fsites%2Fsecurity%2FServices%2FGSAM%2FPages%2FGSAM%2520Self%2520Service%2520Portal.aspx&data=04%7C01%7CHongkun.Chen%40microsoft.com%7Cdd1a9b0e35714e141e9b08d972916db4%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637666791202883832%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=KcMfKQG3DJauCDofmi4UV%2B7zeV2LXABfcykxIArTtOw%3D&reserved=0): Select your country → Click New Request → Badge Management Request, then Submit your request at the bottom button.
@@ -54,7 +78,7 @@ Content: your alias, seat number, lock number 锁芯号 (carved on the lock, not
 - Apply for Leave and vacation on [MSVacation](http://msvacation/)
 - Submit the reimbursement request on [MSExpense](http://msexpense/)
 
-### Useful Phone No. in Zizhu
+### Useful Phone No
 
 - Reception (Office Building): Ext. 83331
 - Reception (Common Building & MPR): Ext. 83332
@@ -72,7 +96,7 @@ Content: your alias, seat number, lock number 锁芯号 (carved on the lock, not
 
 ![ShuttleQRcode](/images/shuttle.png)
 
-### MPR Room/Training Room 4029 Booking
+### MPR and Training Room Booking
 - For Reservation, please email to svlzzrec@microsoft.com
 MPR Room has 2 layout setting options: 150 seats auditorium OR 96 seats with writing tables. The training room has 2 layout setting options: 60 seats OR 40 seats with writing tables.
 - For A/V Support, please email to v-zhijin@microsoft.com OR v-kwei@microsoft.com OR Call 61888500
@@ -81,7 +105,7 @@ MPR Room has 2 layout setting options: 150 seats auditorium OR 96 seats with wri
 - Please contact Receptionist (Anna Lu, v-luanna) OR go to [Self-service Plateform](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fref.chinanorth.cloudapp.chinacloudapi.cn%2Fportal%2Fzh-cn%2F&data=04%7C01%7CHongkun.Chen%40microsoft.com%7Cdd1a9b0e35714e141e9b08d972916db4%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637666791202913704%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=sLluityyYtBhqZs9gG1Pnl8wCyf0bd8iXgoBcvKIL28%3D&reserved=0)
 - Normally it will take around 7 business days to get the business card
 
-### Cafeteria-related Complaint/Suggestion 
+### Cafeteria-related Suggestion 
 - Please email to shzzfc@microsoft.com
 
 ### Reimbursement

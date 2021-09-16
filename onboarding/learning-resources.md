@@ -1,6 +1,6 @@
 # Learning Resources
 
-For new hires, you may check with your manager or pay attention to mail notification about registration opening for the following two Bookcamps. You're also recommended to join Toastmaster clubs for public speaking and leadership skills.
+For new hires, you may check with your manager or pay attention to mail notification about registration opening for the following two Bookcamps. You're also recommended to join Toastmaster clubs for public speaking and leadership skills. Finally, check and complete your required leaning courses regularly.
 
 ## Azure Bootcamp 
 
@@ -33,4 +33,8 @@ At least once a year, DevDiv IDC and DevDiv China will co-host a bootcamp (https
 
 There're 2 groups of attendance, `Member` and `Guest`. For members, they have different paths, you can choose interested 2 paths [Toastmasters International -Pathways learning experience](https://www.toastmasters.org/pathways-overview). Guest will join adhoc presentation.
 
-Contact `Coco Kong` to join Microsoft Toastmaster, she will add you to WeChat group and email group. 
+Contact `Coco Kong` <yuekon@microsoft.com> to join Microsoft Toastmaster, she will add you to WeChat group and email group. 
+
+## Required Training
+
+Check the learning courses regularly on [Microsoft Learning](https://microsoft.sharepoint.com/sites/infopedia) and complete your required training.
