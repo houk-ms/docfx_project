@@ -2,8 +2,58 @@
   href: intro.md
 - name: Useful Information
   href: useful-info.md
+  items:
+    - name: Badge
+      href: useful-info.md#badge
+    - name: Office Access
+      href: useful-info.md#office-access
+    - name: Phone Authentication
+      href: useful-info.md#phone-authentication
+    - name: MS network
+      href: useful-info.md#ms-network
+    - name: Asset Management
+      href: useful-info.md#asset-management
+    - name: SAW machine
+      href: useful-info.md#saw-machine
+    - name: Headphone
+      href: useful-info.md#headphone
+    - name: Install Printer Driver
+      href: useful-info.md#install-printer-driver
+    - name: Key to the Cabinet
+      href: useful-info.md#key-to-the-cabinet
+    - name: MPR and Training Room Booking
+      href: useful-info.md#mpr-and-training-room-booking
+    - name: Business Card
+      href: useful-info.md#business-card
+    - name: Facilities Service Center
+      href: useful-info.md#facilities-service-center
+    - name: Useful Links
+      href: useful-info.md#useful-links
+    - name: Useful Phone No
+      href: useful-info.md#useful-phone-no
+    - name: HR-related
+      href: useful-info.md#hr-related
+    - name: Shuttle
+      href: useful-info.md#shuttle
+    - name: Cafeteria-related Suggestion
+      href: useful-info.md#cafeteria-related-suggestion
+    - name: Reimbursement
+      href: useful-info.md#reimbursement
+    - name: Trade Union
+      href: useful-info.md#trade-union
+    - name: Game Clubs
+      href: useful-info.md#game-clubs
 - name: Learning Resources
   href: learning-resources.md
+  items:
+    - name: Azure Bootcamp
+      href: learning-resources.md#azure-bootcamp
+    - name: DevDiv Bootcamp
+      href: learning-resources.md#devdiv-bootcamp
+    - name: Toastmaster
+      href: learning-resources.md#toastmaster
+    - name: Required Training
+      href: learning-resources.md#required-training
 - name: Engineering Track
   href: engineering-track.md
   items:
