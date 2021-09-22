@@ -1,6 +1,26 @@
 # Learning Resources
 
-For new hires, you may check with your manager or pay attention to mail notification about registration opening for the following two Bookcamps. You're also recommended to join Toastmaster clubs for public speaking and leadership skills. Finally, check and complete your required leaning courses regularly.
+Lots of learning activities and resources are available in DevDiv China. For new hires, you may check with your manager or pay attention to mail notification about registration opening for the following two Bootcamps. You're also recommended to join Toastmaster clubs for public speaking and leadership skills. An index of DevDiv China learning activities and resource are as follows.
+
+|Area|Resource|
+|----|--------|
+|DevDiv Activity|[DevDiv Learning Day](https://microsoft.sharepoint.com/teams/DevDivLearningDay)|
+||[Azure BootCamp](#azure-bootcamp)|
+||[DevDiv BootCamp](#devdiv-bootcamp)|
+||Flexible Friday​|
+||Mentoring Rings​|
+||CarMob (Product Fair)|
+|Technical Learning​|[DevDiv China Tech Sharing​](./Engineering%20track/Day%206%20Engineer%20Tech%20Ramp.md)|
+||[MS Library](https://aka.ms/mslibrary)|
+||[O’Reilly Online Learning​](https://learning.oreilly.com/)|
+||[STRIKE Training​](https://aka.ms/strike/training)|
+|Career & Soft Skills|[Toastmaster](#toastmaster)|
+||[HRWeb Learning​](https://microsoft.sharepoint.com/sites/infopedia)|
+||[LinkedIn Learning​](https://www.linkedin.com/learning/)|
+||Emails from [PRC HR Mail Box​](mailto:hrmail@microsoft.com)|
+|Company & Team Info​|[Microsoft Web (MSW)​](https://microsoft.sharepoint.com/)|
+||[DevDiv China Portal](https://microsoftapc.sharepoint.com/teams/DevDivChina/SitePages/About-DevDiv-China.aspx)|
+||[Microsoft Training](#required-training)|
 
 ## Azure Bootcamp 
 
