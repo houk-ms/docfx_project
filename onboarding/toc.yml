@@ -45,15 +45,6 @@
       href: useful-info.md#game-clubs
 - name: Learning Resources
   href: learning-resources.md
-  items:
-    - name: Azure Bootcamp
-      href: learning-resources.md#azure-bootcamp
-    - name: DevDiv Bootcamp
-      href: learning-resources.md#devdiv-bootcamp
-    - name: Toastmaster
-      href: learning-resources.md#toastmaster
-    - name: Required Training
-      href: learning-resources.md#required-training
 - name: Engineering Track
   href: engineering-track.md
   items:
