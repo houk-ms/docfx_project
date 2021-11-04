@@ -14,12 +14,15 @@
 ### MS network
 - To connect your devices to the MS network, please go to [Device Enrollment](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fmicrosoft.sharepoint.com%2Fsites%2Fmywork%2FSitePages%2FWindows10%2FConnect-your-devices-to-the-Microsoft-network.aspx&data=04%7C01%7CHongkun.Chen%40microsoft.com%7Cdd1a9b0e35714e141e9b08d972916db4%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637666791202903748%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=lkLaHVy2lamMQukHNAlpNPmeDHlDMqac63yJpDgUDrU%3D&reserved=0)
 
+
+### Remote Access Solutions
+- Reference the [Remote Access](https://microsoft.sharepoint.com/sites/Network_Connectivity/SitePages/RemoteDesktopServices/About.aspx?web=1&xsdata=MDN8MDF8fGI5NTliNTFkMDM4ZDRiM2ZhY2Q0MjUzMmJjMGVhNGY2fDcyZjk4OGJmODZmMTQxYWY5MWFiMmQ3Y2QwMTFkYjQ3fDF8MHw2Mzc2ODA0NjM5NzE4NjUzNDV8R29vZHxWR1ZoYlhOVFpXTjFjbWwwZVZObGNuWnBZMlY4ZXlKV0lqb2lNQzR3TGpBd01EQWlMQ0pRSWpvaUlpd2lRVTRpT2lJaUxDSlhWQ0k2TVRKOQ%3D%3D&sdata=NVRJWGtYbStRWWJnK21NdkFjK01EZSs5NDNQSjdjLzRIK0lHVVNFRDJXUT0%3D&ovuser=72f988bf-86f1-41af-91ab-2d7cd011db47%2Calicewan%40microsoft.com&OR=Teams-HL&CT=1636013841123) to use a Microsoft managed device connected to MSFTVPN, or use a non-managed device (e.g. Home PC) to connect to a machine in office.
 ## IT & Facilities
 
 ### Asset Management
 - For problems on Work account, Windows, Office, or Internet: please dial Ext.85000 via "Teams", or 4008685000 on the phone.
 - For problems on Computer/Hardware: please go to Techlink desk on Floor 1, Short Wing area.
-- Asset Self Service: http://assetmgr/#dt?gid=6&, where you can check your own assets, and search for Asset Tag, Asset Owner, ect. (ensure the section as "C+AI").  
+- [Asset Self Service](http://assetmgr/#dt?gid=6&) is where you can check your own assets, and search for Asset Tag, Asset Owner, ect. (ensure the section as "C+AI").  
 
 ![ITAsset](/images/ITAsset.png)
 
@@ -33,10 +36,11 @@ https://microsoft.sharepoint.com/teams/CECIT/Lists/Asset%20Assign/AllItems.aspx
 
 ### Install Printer Driver
 - Right-click the Windows icon and select Windows PowerShell (Admin). 
-- Copy/paste “\\sha-fs-01a\Printer\Azure-Install-KM” to the window and press enter key. 
-- According to your needs, select "Clean/Remove current printers", "Install Azure KM Printer" or "Remove current printer and install Azure KM Printer", and press enter key to execute. 
+- Copy/paste `\\sha-fs-01a\Printer\Azure-Install-KM` to the window and press enter key. 
+- According to your needs, select `Clean/Remove current printers`, `Install Azure KM Printer` or `Remove current printer and install Azure KM Printer`, and press enter key to execute. 
 - You will need to login with your alias and password on the printer for the first time you use it.
-- Color Printing: please get your manager's approval email and forward it to "Linwen Gao, v-ligao" and  "Aimee Gan, v-aimeeg", who will then grant you the access.
+- Color Printing: please get your manager's approval email and forward it to `Linwen Gao, v-ligao` and  `Aimee Gan, v-aimeeg`, who will then grant you the access.
+- Any unexpected issues: please email to Global Print Service(gps_svc_eng@microsoft.com) for help.
 
 ### Key to the Cabinet 
 - Please send email as below: 
@@ -67,7 +71,8 @@ MPR Room has 2 layout setting options: 150 seats auditorium OR 96 seats with wri
  - Discover, engage and share on [MSW](https://microsoft.sharepoint.com/)
  - Submit your HR related questions on [HRWeb](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fmicrosoft.sharepoint.com%2Fsites%2Fhrw%2FPages%2Fhome.aspx&data=04%7C01%7CHongkun.Chen%40microsoft.com%7Cdd1a9b0e35714e141e9b08d972916db4%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637666791202873879%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=870y7V0Axq0iyopIWUGYoD0n3fpPdt6XMHx%2Bl7TTmKY%3D&reserved=0)
 - Apply for Leave and vacation on [MSVacation](http://msvacation/)
-- Submit the reimbursement request on [MSExpense](http://msexpense/)
+- Submit the reimbursement request on [MSExpense 2.0](http://msexpense2/)
+- Find terms and definitions on [MS glossary](https://microsoft.sharepoint.com/SitePages/Glossary.aspx)
 
 ### Useful Phone No
 
